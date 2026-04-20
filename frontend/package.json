@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Manoj456670/Zoo_management.git",
+  "homepage": "https://Manoj456670.github.io/Zoo_management",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
