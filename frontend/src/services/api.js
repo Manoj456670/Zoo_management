@@ -11,3 +11,4 @@ export const handleRegister = async (userData) => {
     throw error;
   }
 };
+export default { handleRegister };
